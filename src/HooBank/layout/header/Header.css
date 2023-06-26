@@ -1,0 +1,13 @@
+ 
+.nav__bar{  
+    align-items: center; 
+} 
+.toggle__menu i{
+    font-size: 14px;
+}
+.nav__list{
+    transition: .4s;
+}
+.bg-gradient{
+    background: linear-gradient(to left,rgb(78, 78, 78),rgb(44, 42, 42));
+} 
